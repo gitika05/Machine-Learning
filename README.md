@@ -1,4 +1,4 @@
-Assignment 5: Water Treatment Plant
+Assignment 5: Water Treatment Plant: Unsupervised Learning
 
 Water Treatment Plant Clustering
 
@@ -18,6 +18,6 @@ Different dataframes have been made as, according to our opinion, each dataframe
 
 While calculating the Silhouette score, we found scores to be in range of 0.1 to 0.3, and hence no clear clusters were formed based on K-means method.
 
-Assignment 6: Seoul Bike Dataset: 
+Assignment 6: Seoul Bike Dataset: Supervised Learning: https://www.kaggle.com/datasets/saurabhshahane/seoul-bike-sharing-demand-prediction
 
 Data include weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information.
